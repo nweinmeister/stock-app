@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+ul.wins-list {
+  text-align: center;
+  width: 20%;
+  margin: 0 auto;
+}
+
+div.win-item {
+  text-align: center;
+}
+
+.recharts-wrapper {
+  margin: 0 auto;
+}
+
+.main-card {
+  text-align: center;
+}
+
+.date-input-card {
+  width: 33%;
+  margin: 0 auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.stock-data-card {
+  width: 33%;
+  margin: 0 auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
